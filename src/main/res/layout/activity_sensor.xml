@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".SensorActivity">
+
+    <TextView
+        android:id="@+id/textViewShowData"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textColor="#FFF"
+        android:textSize="20dp" />
+
+    <com.jjoe64.graphview.GraphView
+        android:id="@+id/graphXY"
+        android:layout_width="match_parent"
+        android:layout_height="200dp" />
+
+    <com.jjoe64.graphview.GraphView
+        android:id="@+id/graphYZ"
+        android:layout_width="match_parent"
+        android:layout_height="200dp" />
+
+    <com.jjoe64.graphview.GraphView
+        android:id="@+id/graphXZ"
+        android:layout_width="match_parent"
+        android:layout_height="200dp" />
+</LinearLayout>

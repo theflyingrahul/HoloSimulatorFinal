@@ -1,0 +1,1 @@
+[{"outputType":{"type":"INSTANT_APP_MANIFEST"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":10,"versionName":"Neon 10.0 Stable RTM","enabled":true,"outputFile":"HoloSimulator-release.apk","fullName":"release","baseName":"release"},"path":"AndroidManifest.xml","properties":{"packageId":"com.athena.holosimulator","split":"","minSdkVersion":"16"}}]

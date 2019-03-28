@@ -1,0 +1,4 @@
+#Wed Feb 27 17:23:30 IST 2019
+base.0=/Users/Athena/UnityProjects/BerylliumBeta/neon/HoloSimulator/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex
